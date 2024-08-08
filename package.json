@@ -1,0 +1,17 @@
+{
+  "name": "my_portfolio_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lucide-react": "^0.411.0",
+    "react-router-dom": "^6.25.1"
+  }
+}
